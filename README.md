@@ -1,3 +1,4 @@
+## ✨ Demo
  ![alt text](https://cdn-images-1.medium.com/max/2560/1*oCOdiQV4gjaYpkp912gEIQ.gif)
  
  ## Introduction 👋
@@ -23,7 +24,7 @@
  !pip install -q tabula-py
 
 
-## Code
+## 🚀 Usage
 There are three (3) Python scripts.
 - <b>parameters</b>: contains the bulk of the code, i.e. parsing data from a PDF bank statement, data cleaning, and manual classification of transactions.
 
