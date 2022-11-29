@@ -1,7 +1,8 @@
  ![alt text](https://cdn-images-1.medium.com/max/2560/1*oCOdiQV4gjaYpkp912gEIQ.gif)
  
  ## Introduction 👋
-
+ This repo contains code used for writing the article [Visualize your PDF Bank Statement with Python](https://python.plainenglish.io/visualize-your-pdf-bank-statement-with-python-cc3608d72a3) on Medium.
+ 
 <br />
  Like me, do you always wonder where your money goes each month
  and would like to get some insights into your spending? Here's how.
