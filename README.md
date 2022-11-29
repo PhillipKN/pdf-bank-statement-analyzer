@@ -35,5 +35,5 @@ There are three (3) Python scripts.
 ## 📝 License
 
 Copyright © 2019 [Phillip Heita](https://github.com/PhillipKN).<br />
-This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+This project is [MIT](https://github.com/PhillipKN/pdf-bank-statement-analyzer/blob/main/LICENSE) licensed.
 
