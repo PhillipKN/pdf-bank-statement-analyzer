@@ -31,3 +31,9 @@ There are three (3) Python scripts.
 - <b>plots</b>: contains all the functions for creating the various plots.
 
 - <b>panel_spend_dashboard</b>: contains the [Panel](https://panel.holoviz.org/) code for putting the final dashboard view together.
+
+## 📝 License
+
+Copyright © 2019 [Phillip Heita](https://github.com/PhillipKN).<br />
+This project is [MIT](https://github.com/kefranabg/readme-md-generator/blob/master/LICENSE) licensed.
+
